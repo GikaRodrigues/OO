@@ -1,0 +1,11 @@
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\bin\Debug\netcoreapp2.1\Ex1.deps.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\bin\Debug\netcoreapp2.1\Ex1.runtimeconfig.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\bin\Debug\netcoreapp2.1\Ex1.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\bin\Debug\netcoreapp2.1\Ex1.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\bin\Debug\netcoreapp2.1\Ex1.pdb
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.dll
+C:\Users\38850490828\Documents\Aulas C#\C-Sharp\OO1\Ex1\obj\Debug\netcoreapp2.1\Ex1.pdb
